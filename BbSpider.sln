@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiderCore", "SpiderCore\SpiderCore.csproj", "{8DD02C83-17E0-4BF3-8D70-493005FE0F91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Requests", "Requests\Requests.csproj", "{59C3B070-ABC9-4F97-BA59-550A381BE3B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiderApp", "SpiderApp\SpiderApp.csproj", "{69781871-9B11-4B4E-B730-18030D7EF0D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DD02C83-17E0-4BF3-8D70-493005FE0F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD02C83-17E0-4BF3-8D70-493005FE0F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD02C83-17E0-4BF3-8D70-493005FE0F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD02C83-17E0-4BF3-8D70-493005FE0F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59C3B070-ABC9-4F97-BA59-550A381BE3B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C3B070-ABC9-4F97-BA59-550A381BE3B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C3B070-ABC9-4F97-BA59-550A381BE3B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C3B070-ABC9-4F97-BA59-550A381BE3B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69781871-9B11-4B4E-B730-18030D7EF0D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69781871-9B11-4B4E-B730-18030D7EF0D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69781871-9B11-4B4E-B730-18030D7EF0D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69781871-9B11-4B4E-B730-18030D7EF0D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
